@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "John",
+      "coffeeName": "Latte",
+      "total": 4.5,
+      "size": "Medium"
+    },
+    {
+      "id": 2,
+      "name": "Sarah",
+      "coffeeName": "Americano",
+      "total": 3.0,
+      "size": "Small"
+    }
+  ]
+}
