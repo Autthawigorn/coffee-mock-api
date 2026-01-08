@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "coffeeName": "Latte",
+    "total": 4.5,
+    "size": "Medium"
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "coffeeName": "Americano",
+    "total": 3.0,
+    "size": "Small"
+  }
+]
